@@ -1,0 +1,5 @@
+cohort,sub_module,n_samples,n_genes,scorad_spearman_rho,pval
+GSE130588,Type2_Inflammation,188,253,0.4409,0.0
+GSE130588,Epidermal_Barrier,188,455,0.0097,0.89517
+GSE130588,AMP_Innate,188,211,0.5095,0.0
+GSE130588,cAMP_PDE4_5LOX_Panel,188,267,-0.086,0.24077

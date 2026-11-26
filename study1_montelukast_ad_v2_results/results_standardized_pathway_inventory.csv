@@ -1,0 +1,20 @@
+module,database,pathway_id,pathway_name,n_genes,source
+Type2_Inflammation,GO:BP,GO:0042092,type 2 immune response,35,QuickGO_descendants
+Type2_Inflammation,GO:BP,GO:0002828,regulation of type 2 immune response,6,Enrichr:GO_Biological_Process_2025
+Type2_Inflammation,KEGG,hsa04658,Th1 and Th2 cell differentiation,93,KEGG_REST
+Type2_Inflammation,KEGG,hsa04664,Fc epsilon RI signaling pathway,68,KEGG_REST
+Type2_Inflammation,REACTOME,R-HSA-6785807,Interleukin-4 and Interleukin-13 signaling,111,Reactome_REST
+Epidermal_Barrier,GO:BP,GO:0061436,establishment of skin barrier,21,Enrichr:GO_Biological_Process_2025
+Epidermal_Barrier,GO:BP,GO:0031424,keratinization,46,QuickGO_descendants
+Epidermal_Barrier,GO:BP,GO:0030216,keratinocyte differentiation,42,Enrichr:GO_Biological_Process_2025
+Epidermal_Barrier,GO:BP,GO:0008544,epidermis development,86,Enrichr:GO_Biological_Process_2025
+Epidermal_Barrier,KEGG,hsa04530,Tight junction,171,KEGG_REST
+Epidermal_Barrier,KEGG,hsa00062,Fatty acid elongation,28,KEGG_REST
+Epidermal_Barrier,KEGG,hsa00600,Sphingolipid metabolism,55,KEGG_REST
+Epidermal_Barrier,REACTOME,R-HSA-6805567,Keratinization,217,Reactome_REST
+AMP_Innate,GO:BP,GO:0019730,antimicrobial humoral response,147,Enrichr:GO_Biological_Process_2025
+AMP_Innate,GO:BP,GO:0061844,antimicrobial humoral immune response mediated by antimicrobial peptide,116,Enrichr:GO_Biological_Process_2025
+AMP_Innate,GO:BP,GO:0019731,antibacterial humoral response,53,Enrichr:GO_Biological_Process_2025
+AMP_Innate,KEGG,hsa04657,IL-17 signaling pathway,94,KEGG_REST
+cAMP_PDE4_5LOX_Panel,KEGG,hsa04024,cAMP signaling pathway,226,KEGG_REST
+cAMP_PDE4_5LOX_Panel,KEGG,hsa00590,Arachidonic acid metabolism,63,KEGG_REST

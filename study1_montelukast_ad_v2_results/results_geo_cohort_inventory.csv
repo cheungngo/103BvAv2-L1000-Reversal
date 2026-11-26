@@ -1,0 +1,5 @@
+cohort,status,genes_mapped,LS_n,NL_n,clinical_arms
+GSE130588,OK,21753,51,42,"Dupi_W0=26, W4=24, W16=18"
+GSE133477,OK,14752,79,40,"Crisa_D1=40, D8=22, D15=39, Veh_D15=38"
+GSE121212,OK,31362,21,27,AD RNA-seq disease cohort
+GSE157194,OK,33458,57,54,Dupi_m3=21

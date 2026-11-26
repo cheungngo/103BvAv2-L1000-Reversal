@@ -1,0 +1,29 @@
+compound,sig_id,pert_name,pert_id,cell_line,tissue_stratum,pert_dose_raw,pert_dose_unit,dose_uM,dose_bin,pert_time
+Montelukast,05fe0da5-d376-50d2-a958-ec0e76604576,montelukast,,MCF7,HormoneTumor,10 uM,,10.0,High_ge_10uM,24 h
+Montelukast,12017244-5e5e-57c6-a77e-86af57e393dd,montelukast,,VCAP,HormoneTumor,10 uM,,10.0,High_ge_10uM,24 h
+Montelukast,138e3d45-854d-5b25-b854-e084656f6d64,montelukast,,PC3,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,19e5ea5c-b0d5-5ea7-8dbc-b730e67e932f,montelukast,,VCAP,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,2c4e8e3a-2e89-5d4a-bde6-c989b1b09718,montelukast,,PC3,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,2f8be8d3-32ec-5fa3-938d-a120b6ae060f,montelukast,,PC3,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,319ed76c-a823-54f6-870c-c6ca29dc7278,montelukast,,MCF7,HormoneTumor,10 uM,,10.0,High_ge_10uM,24 h
+Montelukast,370ddf5b-0035-5cca-84d4-168d1cc67bc9,montelukast,,HUH7,OtherCell,6.66 uM,,6.66,Mid_1_to_10uM,72 h
+Montelukast,373f34c6-03a5-5cca-8361-7cd480e7e505,montelukast,,A549,RelevantTissue,10 uM,,10.0,High_ge_10uM,24 h
+Montelukast,3b3c574a-22e5-5e73-bfc2-434bfd63240f,montelukast,,MCF7,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,462ac4b4-0152-570f-9c46-8c8f311fd8f3,montelukast,,VCAP,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,4c430169-75f2-50df-b5e2-b2ffaf42c664,montelukast,,VCAP,HormoneTumor,10 uM,,10.0,High_ge_10uM,24 h
+Montelukast,4c8833ce-041b-5687-9a69-cf43e3236fc0,montelukast,,A375,RelevantTissue,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,59ea4168-bc72-5b96-a022-5460added4e0,montelukast,,HT29,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,5cc215d6-848c-5e06-a2c2-f654b4f82ab3,montelukast,,A549,RelevantTissue,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,6989828d-a55b-5a4f-992f-079c44be363b,montelukast,,MCF7,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,710ac0fa-4378-5c2d-8417-5619566bbffd,montelukast,,HA1E,RelevantTissue,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,758f746c-d7a8-51b7-a771-0e030fc8fced,montelukast,,,OtherCell,,,,Unknown_Dose,
+Montelukast,8737eb27-e8b2-5775-8b97-18c6c31f67ff,montelukast,,HT29,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,9c148468-99ad-53ca-b297-0e0c075680e8,montelukast,,PC3,HormoneTumor,10 uM,,10.0,High_ge_10uM,24 h
+Montelukast,9e498b30-3b39-59ed-9588-ecf89f4263e7,montelukast,,HA1E,RelevantTissue,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,ab654924-5781-584d-8f3b-b4efe75d174d,montelukast,,A375,RelevantTissue,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,afc31a47-e72b-5541-9b08-8450c5466e69,montelukast,,A549,RelevantTissue,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,b95f31c1-73b1-5c90-bfc4-8d85b1c23892,montelukast,,PC3,HormoneTumor,10 uM,,10.0,High_ge_10uM,24 h
+Montelukast,c424170d-2fee-5cae-a77e-013b298d7dd1,montelukast,,PC3,HormoneTumor,10 uM,,10.0,High_ge_10uM,24 h
+Montelukast,e1172c03-7a75-5bf5-9bb9-9ae5b7600458,montelukast,,MCF7,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,f1a74e95-3fd6-5717-bdb9-a563ecd6f457,montelukast,,HCC515,HormoneTumor,10 uM,,10.0,High_ge_10uM,6 h
+Montelukast,fda1ca96-4381-59cf-a763-e69a7d787fc3,montelukast,,MCF7,HormoneTumor,10 uM,,10.0,High_ge_10uM,24 h
